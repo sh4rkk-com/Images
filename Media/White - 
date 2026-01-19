@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dark-Dislay-Mode--Streamline-Core" height="14" width="14">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dashboard-3--Streamline-Core" height="14" width="14">
   <desc>
-    Dark Dislay Mode Streamline Icon: https://streamlinehq.com
+    Dashboard 3 Streamline Icon: https://streamlinehq.com
   </desc>
-  <g id="dark-dislay-mode">
-    <path id="Subtract" fill="#eef2f6" fill-rule="evenodd" d="M0 7c0 -3.86599 3.13401 -7 7 -7 3.866 0 7 3.13401 7 7 0 3.866 -3.134 7 -7 7 -3.86599 0 -7 -3.134 -7 -7Zm7.00076 -0.01865c0 -1.35815 1.101 -2.45915 2.45916 -2.45915 0.25029 0 0.44144 -0.3009 0.25794 -0.47113 -0.71301 -0.66144 -1.66783 -1.06584 -2.7171 -1.06584 -2.207 0 -3.99612 1.78913 -3.99612 3.99612 0 2.207 1.78912 3.99615 3.99612 3.99615 1.04927 0 2.00409 -0.4044 2.7171 -1.06587 0.1835 -0.17022 -0.00765 -0.47112 -0.25794 -0.47112 -1.35816 0 -2.45916 -1.101 -2.45916 -2.45916Z" clip-rule="evenodd" stroke-width="1"></path>
+  <g id="dashboard-3--app-application-dashboard-home-layout-vertical">
+    <path id="Union" fill="#eef2f6" fill-rule="evenodd" d="M1 0C0.447715 0 0 0.447715 0 1v6c0 0.55229 0.447715 1 1 1h4c0.55229 0 1 -0.44771 1 -1V1c0 -0.552285 -0.44771 -1 -1 -1H1Zm7 1c0 -0.552285 0.44771 -1 1 -1h4c0.5523 0 1 0.447715 1 1v2.01c0 0.55228 -0.4477 1 -1 1H9c-0.55229 0 -1 -0.44772 -1 -1V1Zm0 6c0 -0.55228 0.44771 -1 1 -1h4c0.5523 0 1 0.44772 1 1v6c0 0.5523 -0.4477 1 -1 1H9c-0.55228 0 -1 -0.4477 -1 -1V7Zm-8 3.99c0 -0.5523 0.447715 -1.00001 1 -1.00001h4c0.55229 0 1 0.44771 1 1.00001V13c0 0.5523 -0.44771 1 -1 1H1c-0.552285 0 -1 -0.4477 -1 -1v-2.01Z" clip-rule="evenodd" stroke-width="1"></path>
   </g>
 </svg>
