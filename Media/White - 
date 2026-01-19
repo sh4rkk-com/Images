@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Home-4--Streamline-Core" height="14" width="14">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Horizontal-Menu-Circle--Streamline-Core" height="14" width="14">
   <desc>
-    Home 4 Streamline Icon: https://streamlinehq.com
+    Horizontal Menu Circle Streamline Icon: https://streamlinehq.com
   </desc>
-  <g id="home-4--home-house-roof-shelter">
-    <path id="Union" fill="#eef2f6" fill-rule="evenodd" d="M7.70711 1.29289c-0.39053 -0.390521 -1.02369 -0.390521 -1.41422 0l-5.999997 6c-0.3905241 0.39053 -0.3905241 1.02369 0 1.41422 0.390524 0.39052 1.023687 0.39052 1.414217 0L2 8.41421V13c0 0.5523 0.44772 1 1 1h8c0.5523 0 1 -0.4477 1 -1V8.41421l0.2929 0.2929c0.3905 0.39052 1.0237 0.39052 1.4142 0 0.3905 -0.39053 0.3905 -1.02369 0 -1.41422l-5.99999 -6Z" clip-rule="evenodd" stroke-width="1"></path>
+  <g id="horizontal-menu-circle--navigation-dots-three-circle-button-horizontal-menu">
+    <path id="Subtract" fill="#eef2f6" fill-rule="evenodd" d="M7 14c3.866 0 7 -3.134 7 -7 0 -3.86599 -3.134 -7 -7 -7 -3.86599 0 -7 3.13401 -7 7 0 3.866 3.13401 7 7 7ZM4 8c0.55228 0 1 -0.44772 1 -1s-0.44772 -1 -1 -1 -1 0.44772 -1 1 0.44772 1 1 1Zm4 -1c0 0.55228 -0.44772 1 -1 1s-1 -0.44772 -1 -1 0.44772 -1 1 -1 1 0.44772 1 1Zm2 1c0.5523 0 1 -0.44772 1 -1s-0.4477 -1 -1 -1c-0.55229 0 -1 0.44772 -1 1s0.44771 1 1 1Z" clip-rule="evenodd" stroke-width="1"></path>
   </g>
 </svg>
