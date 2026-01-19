@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Crop-Selection--Streamline-Core" height="14" width="14">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Crown--Streamline-Core" height="14" width="14">
   <desc>
-    Crop Selection Streamline Icon: https://streamlinehq.com
+    Crown Streamline Icon: https://streamlinehq.com
   </desc>
-  <g id="crop-selection--artboard-crop-design-image-picture">
-    <path id="Union" fill="#eef2f6" fill-rule="evenodd" d="M4.5 1c0 -0.552285 -0.44772 -1 -1 -1s-1 0.447715 -1 1v1.5H1c-0.552285 0 -1 0.44772 -1 1s0.447715 1 1 1h1.5V9c0 1.3807 1.11929 2.5 2.5 2.5h4.5V13c0 0.5523 0.44771 1 1 1 0.5523 0 1 -0.4477 1 -1v-1.5H13c0.5523 0 1 -0.4477 1 -1 0 -0.55229 -0.4477 -1 -1 -1H5c-0.27614 0 -0.5 -0.22386 -0.5 -0.5V1ZM6 3.5c0 -0.55228 0.44772 -1 1 -1h2c1.3807 0 2.5 1.11929 2.5 2.5v2c0 0.55228 -0.4477 1 -1 1 -0.55228 0 -1 -0.44772 -1 -1V5c0 -0.27614 -0.22386 -0.5 -0.5 -0.5H7c-0.55228 0 -1 -0.44772 -1 -1Z" clip-rule="evenodd" stroke-width="1"></path>
+  <g id="crown--reward-social-rating-media-queen-vip-king-crown">
+    <path id="Union" fill="#eef2f6" fill-rule="evenodd" d="M7.40962 1.71327C7.31605 1.57961 7.16316 1.5 7 1.5c-0.16316 0 -0.31605 0.07961 -0.40962 0.21327L3.43215 6.22504 0.853553 3.64645c-0.142999 -0.143 -0.358058 -0.18578 -0.544895 -0.10839C0.121821 3.61545 0 3.79777 0 4v6.5c0 0.5304 0.210714 1.0391 0.585786 1.4142C0.960859 12.2893 1.46957 12.5 2 12.5h10c0.5304 0 1.0391 -0.2107 1.4142 -0.5858S14 11.0304 14 10.5V4c0 -0.20223 -0.1218 -0.38455 -0.3087 -0.46194 -0.1868 -0.07739 -0.4019 -0.03461 -0.5449 0.10839l-2.5785 2.57859 -3.15828 -4.51177Z" clip-rule="evenodd" stroke-width="1"></path>
   </g>
 </svg>
