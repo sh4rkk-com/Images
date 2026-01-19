@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shuffle--Streamline-Core" height="14" width="14">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Sigma--Streamline-Core" height="14" width="14">
   <desc>
-    Shuffle Streamline Icon: https://streamlinehq.com
+    Sigma Streamline Icon: https://streamlinehq.com
   </desc>
-  <g id="shuffle--multimedia-shuffle-multi-button-controls-media">
-    <path id="Union" fill="#eef2f6" fill-rule="evenodd" d="M11.854 1.646A0.5 0.5 0 0 0 11 2v1H8.5a1 1 0 1 0 0 2H11v1a0.5 0.5 0 0 0 0.854 0.354l2 -2a0.5 0.5 0 0 0 0 -0.708l-2 -2ZM0 4a1 1 0 0 1 1 -1h3.25a1 1 0 0 1 0.832 0.445L8.785 9H11V8a0.5 0.5 0 0 1 0.854 -0.354l2 2a0.5 0.5 0 0 1 0 0.708l-2 2A0.5 0.5 0 0 1 11 12v-1H8.25a1 1 0 0 1 -0.832 -0.445L3.715 5H1a1 1 0 0 1 -1 -1Zm0 6a1 1 0 0 1 1 -1h3a1 1 0 1 1 0 2H1a1 1 0 0 1 -1 -1Z" clip-rule="evenodd" stroke-width="1"></path>
+  <g id="sigma--formula-text-format-sigma-formatting-sum">
+    <path id="Vector 1634 (Stroke)" fill="#eef2f6" fill-rule="evenodd" d="M0.418 2.268C-0.366 1.48 0.184 0.126 1.305 0.126h11.9a0.744 0.744 0 1 1 0 1.489H1.87l4.843 4.86c0.29 0.29 0.29 0.76 0 1.05l-4.843 4.86h11.337a0.744 0.744 0 1 1 0 1.49h-11.9c-1.122 0 -1.672 -1.355 -0.888 -2.142L5.134 7 0.418 2.268Z" clip-rule="evenodd" stroke-width="1"></path>
   </g>
 </svg>
