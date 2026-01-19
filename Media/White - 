@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Projector-Board--Streamline-Core" height="14" width="14">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pyramid-Shape--Streamline-Core" height="14" width="14">
   <desc>
-    Projector Board Streamline Icon: https://streamlinehq.com
+    Pyramid Shape Streamline Icon: https://streamlinehq.com
   </desc>
-  <g id="projector-board--projector-screen-work-meeting-presentation">
-    <path id="Union" fill="#eef2f6" fill-rule="evenodd" d="M0 1.5C0 0.671573 0.671573 0 1.5 0h11c0.8284 0 1.5 0.671573 1.5 1.5v1.375H0V1.5Zm0 2.625h14V9.5c0 0.8284 -0.6716 1.5 -1.5 1.5h-2.1893l1.7196 1.7197c0.2929 0.2929 0.2929 0.7677 0 1.0606 -0.2929 0.2929 -0.7677 0.2929 -1.0606 0L8.18934 11H7.75v2.25c0 0.4142 -0.33579 0.75 -0.75 0.75s-0.75 -0.3358 -0.75 -0.75V11h-0.43934l-2.78033 2.7803c-0.29289 0.2929 -0.76777 0.2929 -1.06066 0s-0.29289 -0.7677 0 -1.0606L3.68934 11H1.5C0.671573 11 0 10.3284 0 9.5V4.125Z" clip-rule="evenodd" stroke-width="1"></path>
+  <g id="pyramid-shape">
+    <path id="Subtract" fill="#eef2f6" fill-rule="evenodd" d="M6.35938 0.524812c-0.07721 0.062075 -0.14698 0.137378 -0.20614 0.225909L0.353423 9.42964c-0.3431196 0.51344 -0.143449 1.21206 0.419169 1.46666l5.586788 2.5281 0 -12.899588Zm1.25 12.900188 5.58572 -2.5255c0.5627 -0.2544 0.7626 -0.95302 0.4196 -1.46657L7.81627 0.750951C7.75692 0.662088 7.68689 0.586545 7.60938 0.524323l0 12.900677Z" clip-rule="evenodd" stroke-width="1"></path>
   </g>
 </svg>
