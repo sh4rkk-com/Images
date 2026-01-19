@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Magnifying-Glass-Circle--Streamline-Core" height="14" width="14">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Mail-Send-Envelope--Streamline-Core" height="14" width="14">
   <desc>
-    Magnifying Glass Circle Streamline Icon: https://streamlinehq.com
+    Mail Send Envelope Streamline Icon: https://streamlinehq.com
   </desc>
-  <g id="magnifying-glass-circle--circle-glass-search-magnifying">
-    <path id="Subtract" fill="#eef2f6" fill-rule="evenodd" d="M14 7c0 3.866 -3.134 7 -7 7 -3.86599 0 -7 -3.134 -7 -7 0 -3.86599 3.13401 -7 7 -7 3.866 0 7 3.13401 7 7ZM6.5 4.625c-1.03553 0 -1.875 0.83947 -1.875 1.875S5.46447 8.375 6.5 8.375 8.375 7.53553 8.375 6.5 7.53553 4.625 6.5 4.625ZM3.375 6.5c0 -1.72589 1.39911 -3.125 3.125 -3.125S9.625 4.77411 9.625 6.5c0 0.63693 -0.19055 1.22935 -0.51775 1.72337l1.33465 1.33469c0.2441 0.24408 0.2441 0.63984 0 0.88384 -0.244 0.2441 -0.63976 0.2441 -0.88384 0L8.22337 9.10725C7.72935 9.43445 7.13693 9.625 6.5 9.625c-1.72589 0 -3.125 -1.39911 -3.125 -3.125Z" clip-rule="evenodd" stroke-width="1"></path>
+  <g id="mail-send-envelope--envelope-email-message-unopened-sealed-close">
+    <path id="Subtract" fill="#eef2f6" fill-rule="evenodd" d="M0 2.75a1.5 1.5 0 0 1 1.5 -1.5h11a1.5 1.5 0 0 1 1.5 1.5v0.342L7.383 7.504A0.72 0.72 0 0 1 7 7.607a0.72 0.72 0 0 1 -0.383 -0.103L0 3.092V2.75Zm0 1.844v6.656a1.5 1.5 0 0 0 1.5 1.5h11a1.5 1.5 0 0 0 1.5 -1.5V4.594L8.073 8.546l-0.005 0.004A1.966 1.966 0 0 1 7 8.857c-0.375 0 -0.753 -0.102 -1.068 -0.307l-0.005 -0.004L0 4.594Z" clip-rule="evenodd" stroke-width="1"></path>
   </g>
 </svg>
