@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Button-Next--Streamline-Core" height="14" width="14">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Button-Pause-2--Streamline-Core" height="14" width="14">
   <desc>
-    Button Next Streamline Icon: https://streamlinehq.com
+    Button Pause 2 Streamline Icon: https://streamlinehq.com
   </desc>
-  <g id="button-next--button-television-buttons-movies-skip-next-video-controls">
-    <path id="Union" fill="#eef2f6" fill-rule="evenodd" d="M9.51212 6.056 1.6931 0.656892C1.29745 0.406346 0.815218 0.473133 0.466699 0.735097 0.198102 0.936989 0.00892463 1.25481 0.0000077775 1.63264V12.3333C0.000002589 12.3347 0 12.3362 0 12.3376c9.627e-7 0.884 0.978943 1.4562 1.6931 1.0039l7.81902 -5.36654c0.65048 -0.43882 0.65048 -1.48014 0 -1.91896Zm4.23778 -4.31384c0 -0.55229 -0.4477 -1.000003 -1 -1.000003 -0.5522 0 -1 0.447713 -1 1.000003V12.2578c0 0.5523 0.4478 1 1 1 0.5523 0 1 -0.4477 1 -1V1.74216Z" clip-rule="evenodd" stroke-width="1"></path>
+  <g id="button-pause-2--button-television-buttons-movies-tv-pause-video-controls">
+    <path id="Union" fill="#eef2f6" fill-rule="evenodd" d="M0 1.5C0 0.671573 0.671573 0 1.5 0H4c0.82843 0 1.5 0.671573 1.5 1.5v11c0 0.8284 -0.67157 1.5 -1.5 1.5H1.5C0.671573 14 0 13.3284 0 12.5v-11ZM10 0c-0.82843 0 -1.5 0.671573 -1.5 1.5v11c0 0.8284 0.67157 1.5 1.5 1.5h2.5c0.8284 0 1.5 -0.6716 1.5 -1.5v-11c0 -0.828427 -0.6716 -1.5 -1.5 -1.5H10Z" clip-rule="evenodd" stroke-width="1"></path>
   </g>
 </svg>
