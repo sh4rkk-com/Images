@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Square-Cap--Streamline-Core" height="14" width="14">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Square-Clock--Streamline-Core" height="14" width="14">
   <desc>
-    Square Cap Streamline Icon: https://streamlinehq.com
+    Square Clock Streamline Icon: https://streamlinehq.com
   </desc>
-  <g id="square-cap">
-    <path id="Subtract" fill="#eef2f6" fill-rule="evenodd" d="M0 3c0 -0.55228 0.447715 -1 1 -1h13v4.25H6.85462C6.55793 5.51704 5.83934 5 5 5c-1.10457 0 -2 0.89543 -2 2s0.89543 2 2 2c0.83934 0 1.55793 -0.51704 1.85462 -1.25H14V12H1c-0.552284 0 -1 -0.4477 -1 -1V3Z" clip-rule="evenodd" stroke-width="1"></path>
+  <g id="square-clock--clock-loading-frame-measure-time-circle">
+    <path id="Union" fill="#eef2f6" fill-rule="evenodd" d="M0 1.5A1.5 1.5 0 0 1 1.5 0h11A1.5 1.5 0 0 1 14 1.5v11a1.5 1.5 0 0 1 -1.5 1.5h-11A1.5 1.5 0 0 1 0 12.5v-11ZM11.5 7a4.5 4.5 0 1 1 -9 0 4.5 4.5 0 0 1 9 0ZM7.625 5a0.625 0.625 0 1 0 -1.25 0v2c0 0.345 0.28 0.625 0.625 0.625h2a0.625 0.625 0 1 0 0 -1.25H7.625V5Z" clip-rule="evenodd" stroke-width="1"></path>
   </g>
 </svg>
