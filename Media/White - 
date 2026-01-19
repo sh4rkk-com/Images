@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Thermometer--Streamline-Core" height="14" width="14">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Trending-Content--Streamline-Core" height="14" width="14">
   <desc>
-    Thermometer Streamline Icon: https://streamlinehq.com
+    Trending Content Streamline Icon: https://streamlinehq.com
   </desc>
-  <g id="thermometer--temperature-thermometer-weather-level-meter-mercury-measure">
-    <path id="Union (Stroke)" fill="#eef2f6" fill-rule="evenodd" d="M4.75 2.25C4.75 1.00736 5.75736 0 7 0s2.25 1.00736 2.25 2.25v5.56902c0.7632 0.64121 1.25 1.60409 1.25 2.68098 0 1.933 -1.567 3.5 -3.5 3.5s-3.5 -1.567 -3.5 -3.5c0 -1.07689 0.48681 -2.03977 1.25 -2.68098V2.25ZM7 1.5c-0.41421 0 -0.75 0.33579 -0.75 0.75v5.94473c0 0.25348 -0.12804 0.48981 -0.34037 0.62826C5.3604 9.18109 5 9.79866 5 10.5c0 1.1046 0.89543 2 2 2s2 -0.8954 2 -2c0 -0.70134 -0.3604 -1.31891 -0.90963 -1.67701 -0.21233 -0.13845 -0.34037 -0.37478 -0.34037 -0.62826V2.25c0 -0.41421 -0.33579 -0.75 -0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+  <g id="trending-content--lit-flame-torch-trending">
+    <path id="Vector (Stroke)" fill="#eef2f6" fill-rule="evenodd" d="M5.495 0.126A0.889 0.889 0 0 1 6.379 0.11c3.987 1.852 6.244 5.698 6.105 8.914 -0.06 1.351 -0.543 2.602 -1.48 3.515 -0.938 0.914 -2.285 1.448 -3.99 1.451a5.186 5.186 0 0 1 -5.502 -4.967l0 -0.008a4.38 4.38 0 0 1 2.251 -3.94 0.5 0.5 0 0 1 0.7 0.235A5.005 5.005 0 0 0 5.47 6.796c0.494 -0.645 0.722 -1.478 0.715 -2.394 -0.008 -1.09 -0.35 -2.259 -0.924 -3.254A0.76 0.76 0 0 1 5.495 0.126Z" clip-rule="evenodd" stroke-width="1"></path>
   </g>
 </svg>
