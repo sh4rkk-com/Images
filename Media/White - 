@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="One-Finger-Tap--Streamline-Core" height="14" width="14">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Open-Book--Streamline-Core" height="14" width="14">
   <desc>
-    One Finger Tap Streamline Icon: https://streamlinehq.com
+    Open Book Streamline Icon: https://streamlinehq.com
   </desc>
-  <g id="one-finger-tap">
-    <path id="Union" fill="#eef2f6" fill-rule="evenodd" d="M3.254 4.361a2.861 2.861 0 1 1 5.647 0.651 0.75 0.75 0 0 0 1.461 0.34 4.361 4.361 0 1 0 -8.495 0 0.75 0.75 0 0 0 1.461 -0.34 2.872 2.872 0 0 1 -0.074 -0.651Zm1.63 5.335 0 -5.437a1.26 1.26 0 0 1 2.518 0l0 4.077h2.464a2.573 2.573 0 0 1 2.573 2.573V13a1 1 0 0 1 -1 1H4.83a1 1 0 0 1 -0.823 -0.433l-0.764 -1.11a1.715 1.715 0 0 1 1.097 -2.66l0.543 -0.102Z" clip-rule="evenodd" stroke-width="1"></path>
+  <g id="open-book--content-books-book-open">
+    <path id="Subtract" fill="#eef2f6" fill-rule="evenodd" d="M6.375 1.653C5.386 1.099 3.536 0.42 1.496 0.179 0.674 0.082 0 0.76 0 1.588v8c0 0.829 0.677 1.489 1.492 1.637 1.84 0.334 3.371 1.216 4.348 1.914 0.164 0.117 0.345 0.205 0.535 0.266V1.653Zm1.25 11.752c0.19 -0.06 0.37 -0.149 0.534 -0.265 0.977 -0.698 2.508 -1.581 4.349 -1.915 0.815 -0.148 1.492 -0.808 1.492 -1.637v-8C14 0.76 13.326 0.082 12.504 0.18c-2.04 0.242 -3.89 0.92 -4.879 1.474v11.752Z" clip-rule="evenodd" stroke-width="1"></path>
   </g>
 </svg>
